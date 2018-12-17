@@ -1,0 +1,32 @@
+.blog-card {
+    width: 100%;
+    background-color: white;
+    margin: 40px 0;
+    position: relative;
+}
+
+.blog-card-header {
+    margin: 20px;
+}
+
+.blog-card-header p {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.blog-card-body {
+    margin: 20px;
+}
+
+.blog-card-body p {
+    color: black;
+}
+
+.blog-card-image img{
+    display: inline;
+    position: relative;
+    top: 0;
+    right: 0;
+    float: right;
+}

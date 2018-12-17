@@ -1,0 +1,24 @@
+.faq-card {
+    width: 100%;
+    background-color: white;
+    margin: 40px 0;
+    position: relative;
+}
+
+.faq-card-question {
+    margin: 20px;
+}
+
+.faq-card-question p {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.faq-card-answer {
+    margin: 20px;
+}
+
+.faq-card-answer p {
+    color: black;
+}

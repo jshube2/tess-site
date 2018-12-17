@@ -1,0 +1,16 @@
+#octo-container {
+    position: absolute;
+    top: 72px;
+    left: 0;
+    height: 500px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+#octo-container img {
+    display: block;
+    height: 100%;
+    width: auto;
+}

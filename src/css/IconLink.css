@@ -1,0 +1,14 @@
+.icon-link {
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.icon-link img {
+    width: 60px;
+    height: 60px;
+}
+
+.icon-link:hover {
+    top: -5px;
+}
