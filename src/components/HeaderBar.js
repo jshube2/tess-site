@@ -36,7 +36,7 @@ class HeaderBar extends Component {
                     />
 
                     <IconLink
-                        linkAddr = {"https://www.etsy.com/people/0imaebjr"}
+                        linkAddr = {"https://www.etsy.com/shop/mothlette"}
                         imgSrc = {"./assets/icons/etsy_logo.png"}
                     />
 
